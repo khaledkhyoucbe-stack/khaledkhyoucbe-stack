@@ -39,7 +39,7 @@ I'm an **International Finance professional** and **entrepreneur** operating at 
 ```yaml
 📍 Based in:       Mauritania 🇲🇷 ⟷ Turkey 🇹🇷
 🎓 Education:      PhD Candidate — International Finance
-🏢 Ventures:       El Rakb Logistics · HİCAZ Trading
+🏢 Ventures:       El isnad Logistics · HİCAZ Trading
 🔬 Research:       Trade Finance · Islamic Finance · Emerging Markets
 🎯 Mission:        Build a scalable global trade ecosystem
 💬 Languages:      Arabic · French · English · Turkish
@@ -145,7 +145,7 @@ I'm an **International Finance professional** and **entrepreneur** operating at 
 <table>
 <tr>
   <td width="50%">
-    <h3 align="center">🏢 El Rakb Logistics</h3>
+    <h3 align="center">🏢 El isnad Logistics</h3>
     <p align="center">
       <img src="https://img.shields.io/badge/Status-Active-3FB950?style=for-the-badge&labelColor=0D1117"/>
     </p>
@@ -242,8 +242,8 @@ I'm an **International Finance professional** and **entrepreneur** operating at 
 
 ```mermaid
 graph LR
-    A["🇹🇷 Turkey"] -->|Logistics| B["📦 El Rakb"]
-    A -->|Sourcing| C["🛍️ HİCAZ"]
+    A["🇹🇷 Turkey"] -->|Logistics| B["📦 El İsnad"]
+    A -->|Sourcing| C["🛍️ E-HİCAZ"]
     B --> D["🇲🇷 Mauritania"]
     B --> E["🇸🇳 Senegal"]
     B --> F["🇲🇱 Mali"]
