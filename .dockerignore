@@ -1,0 +1,25 @@
+# قاعدة البيانات المحلية
+*.db
+*.sqlite3
+
+# بيئة Python الافتراضية
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Git
+.git/
+.gitignore
+
+# ملفات التطوير
+.env
+.env.*
+*.log
+
+# الملفات المؤقتة
+*.tmp
+*.bak
